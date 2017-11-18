@@ -1,0 +1,55 @@
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\Content\down.xnb
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\Content\groundtiles.xnb
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\lazman.exe
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\lazman.pdb
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\SharpDX.RawInput.dll
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\SharpDX.RawInput.xml
+C:\Users\Tim\Desktop\lazman\lazman\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\Tim\Desktop\lazman\lazman\obj\x86\Release\lazman.exe
+C:\Users\Tim\Desktop\lazman\lazman\obj\x86\Release\lazman.pdb
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\Content\buttonFont.xnb
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\Content\down.xnb
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\Content\groundtiles.xnb
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\Content\player.xnb
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\Content\someFloors.xnb
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\lazman.exe
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\lazman.pdb
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\obj\x86\Release\lazman.csproj.CoreCompileInputs.cache
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\obj\x86\Release\lazman.exe
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\obj\x86\Release\lazman.pdb
+C:\Users\tim\Desktop\Programming Projects\lazman\lazman\obj\x86\Release\lazman.csprojResolveAssemblyReference.cache
