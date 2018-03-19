@@ -27,3 +27,5 @@ Change log:
 10/17/2017 - Created Editor functionality for level editing. Ran into a problem with garbage collection causing frameskips at intervals                during gameplay. 
 
 ** Currently working on fixing the garbage collection issue, I've found that it is not a problem so much on a more powerful machine.
+
+3/17/2018 - I have shut down this project because the garbage collection runs in the background of the .net runtime and cannot be controlled. This was causing the engine to skip 3 - 5 frames every few seconds which is unacceptable. 
